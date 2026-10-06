@@ -200,4 +200,5 @@ void FecharCompra()
     // Simula o processamento do pagamento com o cartão informado
     carrinhos[cliente].Clear();
     Console.WriteLine("Compra finalizada.");
+    //teste de subir na main
 }
